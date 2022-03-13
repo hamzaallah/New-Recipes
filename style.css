@@ -1,0 +1,16 @@
+* {
+    font-family: sans-serif;
+}
+
+.title {
+    font-weight: bold;
+    color: pink;
+    background-color: gray;
+    font-size: xx-large;
+}
+
+.you {
+    font-weight: bold;
+    color: rgb(0, 255, 0);
+    font-size: larger;
+}
