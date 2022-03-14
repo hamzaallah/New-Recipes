@@ -1,0 +1,21 @@
+* {
+    font-family: sans-serif;
+}
+
+.title {
+    color: pink;
+    background-color: gray;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.pic {
+    font-size: smaller;
+}
+
+.header {
+    color: gray;
+    background-color: pink;
+    font-size: x-large;
+    font-weight: bold;
+}

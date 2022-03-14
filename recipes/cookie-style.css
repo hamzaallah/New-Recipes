@@ -1,0 +1,36 @@
+* {
+    font-family: sans-serif;
+}
+
+.title {
+    color: pink;
+    background-color: gray;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.cookie {
+    height: auto;
+    width: 400px;
+}
+
+.succeed {
+    color: red;
+    font-weight: 500;
+}
+
+.list {
+    color: gray;
+    background-color: pink;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.note {
+    color: blueviolet;
+    font-size: smaller;
+}
+
+.detail {
+    font-size: smaller;
+}
